@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    --bg-green: green;
+}
+
+/* CSS variables */
+
+body {
+    background-color: tan;
+}
